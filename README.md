@@ -1,1 +1,1 @@
-# bouzuya
+[bouzuya.net](https://bouzuya.net/)
