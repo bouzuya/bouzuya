@@ -4,9 +4,9 @@
 
 ## crates.io
 
-- [bouzuya/serde-firestore-value]
 - [bouzuya/firestore-path]
 - [bouzuya/firestore-structured-query]
+- [bouzuya/serde-firestore-value]
 - [bouzuya/sitemap-xml-writer]
 
 ## atcoder.jp
