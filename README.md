@@ -4,12 +4,12 @@
 
 ## crates.io
 
-| repository                           | version                          | downloads                        |
-|--------------------------------------|----------------------------------|----------------------------------|
-| [bouzuya/firestore-path]             | ![firestore-path__v]             | ![firestore-path__d]             |
-| [bouzuya/firestore-structured-query] | ![firestore-structured-query__v] | ![firestore-structured-query__d] |
-| [bouzuya/serde-firestore-value]      | ![serde-firestore-value__v]      | ![serde-firestore-value__d]      |
-| [bouzuya/sitemap-xml-writer]         | ![sitemap-xml-writer__v]         | ![sitemap-xml-writer__d]         |
+| repository                           | version                                                               | downloads                        |
+|--------------------------------------|-----------------------------------------------------------------------|----------------------------------|
+| [bouzuya/firestore-path]             | [![firestore-path__v]][crates:firestore-path]                         | ![firestore-path__d]             |
+| [bouzuya/firestore-structured-query] | [![firestore-structured-query__v]][crates:firestore-structured-query] | ![firestore-structured-query__d] |
+| [bouzuya/serde-firestore-value]      | [![serde-firestore-value__v]][crates:serde-firestore-value]           | ![serde-firestore-value__d]      |
+| [bouzuya/sitemap-xml-writer]         | [![sitemap-xml-writer__v]][crates:sitemap-xml-writer]                 | ![sitemap-xml-writer__d]         |
 
 ## atcoder.jp
 
@@ -27,6 +27,10 @@ See: <https://www.npmjs.com/~bouzuya>
 [bouzuya/firestore-structured-query]: https://github.com/bouzuya/firestore-structured-query
 [bouzuya/serde-firestore-value]: https://github.com/bouzuya/serde-firestore-value
 [bouzuya/sitemap-xml-writer]: https://github.com/bouzuya/sitemap-xml-writer
+[crates:firestore-path]: https://crates.io/crates/firestore-path
+[crates:firestore-structured-query]: https://crates.io/crates/firestore-structured-query
+[crates:serde-firestore-value]: https://crates.io/crates/serde-firestore-value
+[crates:sitemap-xml-writer]: https://crates.io/crates/sitemap-xml-writer
 [firestore-path__d]: https://img.shields.io/crates/d/firestore-path
 [firestore-path__v]: https://img.shields.io/crates/v/firestore-path
 [firestore-structured-query__d]: https://img.shields.io/crates/d/firestore-structured-query
