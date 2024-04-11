@@ -6,6 +6,7 @@
 
 | repository                           | version                                                               | downloads                        |
 |--------------------------------------|-----------------------------------------------------------------------|----------------------------------|
+| [bouzuya/cloud-storage-signature]    | [![cloud-storage-signature__v]][crates:cloud-storage-signature]       | ![cloud-storage-signature__d]    |
 | [bouzuya/firestore-path]             | [![firestore-path__v]][crates:firestore-path]                         | ![firestore-path__d]             |
 | [bouzuya/firestore-structured-query] | [![firestore-structured-query__v]][crates:firestore-structured-query] | ![firestore-structured-query__d] |
 | [bouzuya/serde-firestore-value]      | [![serde-firestore-value__v]][crates:serde-firestore-value]           | ![serde-firestore-value__d]      |
@@ -23,10 +24,14 @@ I've published 100+ packages. Those packages are no longer maintained.
 
 See: <https://www.npmjs.com/~bouzuya>
 
+[bouzuya/cloud-storage-signature]: https://github.com/bouzuya/cloud-storage-signature
 [bouzuya/firestore-path]: https://github.com/bouzuya/firestore-path
 [bouzuya/firestore-structured-query]: https://github.com/bouzuya/firestore-structured-query
 [bouzuya/serde-firestore-value]: https://github.com/bouzuya/serde-firestore-value
 [bouzuya/sitemap-xml-writer]: https://github.com/bouzuya/sitemap-xml-writer
+[cloud-storage-signature__d]: https://img.shields.io/crates/d/cloud-storage-signature
+[cloud-storage-signature__v]: https://img.shields.io/crates/v/cloud-storage-signature
+[crates:cloud-storage-signature]: https://crates.io/crates/cloud-storage-signature
 [crates:firestore-path]: https://crates.io/crates/firestore-path
 [crates:firestore-structured-query]: https://crates.io/crates/firestore-structured-query
 [crates:serde-firestore-value]: https://crates.io/crates/serde-firestore-value
