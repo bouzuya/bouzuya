@@ -6,6 +6,8 @@
 
 I've published 490+ crates. Most of these crates are still being maintained.
 
+See: <https://crates.io/users/bouzuya>
+
 | repository                           | version                                                               | downloads                        |
 |--------------------------------------|-----------------------------------------------------------------------|----------------------------------|
 | [bouzuya/cloud-storage-signature]    | [![cloud-storage-signature__v]][crates:cloud-storage-signature]       | ![cloud-storage-signature__d]    |
