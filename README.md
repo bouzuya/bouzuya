@@ -4,7 +4,7 @@
 
 ## crates.io
 
-I've published 490+ crates. Most of these crates are still being maintained.
+I've published 500+ crates. Most of these crates are still being maintained.
 
 See: <https://crates.io/users/bouzuya>
 
@@ -14,7 +14,7 @@ See: <https://crates.io/users/bouzuya>
 | [bouzuya/firestore-path]             | [![firestore-path__v]][crates:firestore-path]                         | ![firestore-path__d]             |
 | [bouzuya/firestore-structured-query] | [![firestore-structured-query__v]][crates:firestore-structured-query] | ![firestore-structured-query__d] |
 | [bouzuya/google-docs-api-types]      | [![google-docs-api-types__v]][crates:google-docs-api-types]           | ![google-docs-api-types__d]      |
-| [bouzuya/googleapis-tonic]           | (`googleapis-tonic-*` 480+ crates)                                    |                                  |
+| [bouzuya/googleapis-tonic]           | (`googleapis-tonic-*` 490+ crates)                                    |                                  |
 | [bouzuya/serde-firestore-value]      | [![serde-firestore-value__v]][crates:serde-firestore-value]           | ![serde-firestore-value__d]      |
 | [bouzuya/sitemap-xml-writer]         | [![sitemap-xml-writer__v]][crates:sitemap-xml-writer]                 | ![sitemap-xml-writer__d]         |
 
